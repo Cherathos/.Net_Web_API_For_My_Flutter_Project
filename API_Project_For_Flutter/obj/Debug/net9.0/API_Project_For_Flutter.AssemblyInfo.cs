@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("80b5bfff-b8b4-4302-81eb-342d59632e0f")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("API_Project_For_Flutter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4051870fa439dbb2c637117881bd44d071093b4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("API_Project_For_Flutter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API_Project_For_Flutter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
