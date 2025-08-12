@@ -1,105 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\FlutterProjects\\Deneme\\WEBAPI\\API_Project_For_Flutter\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B7D06572-8176-4491-B51B-35AC3E242E5C}|API_Project_For_Flutter\\API_Project_For_Flutter.csproj|f:\\flutterprojects\\deneme\\webapi\\api_project_for_flutter\\api_project_for_flutter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B7D06572-8176-4491-B51B-35AC3E242E5C}|API_Project_For_Flutter\\API_Project_For_Flutter.csproj|solutionrelative:api_project_for_flutter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7D06572-8176-4491-B51B-35AC3E242E5C}|API_Project_For_Flutter\\API_Project_For_Flutter.csproj|f:\\flutterprojects\\deneme\\webapi\\api_project_for_flutter\\api_project_for_flutter\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7D06572-8176-4491-B51B-35AC3E242E5C}|API_Project_For_Flutter\\API_Project_For_Flutter.csproj|solutionrelative:api_project_for_flutter\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7D06572-8176-4491-B51B-35AC3E242E5C}|API_Project_For_Flutter\\API_Project_For_Flutter.csproj|f:\\flutterprojects\\deneme\\webapi\\api_project_for_flutter\\api_project_for_flutter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7D06572-8176-4491-B51B-35AC3E242E5C}|API_Project_For_Flutter\\API_Project_For_Flutter.csproj|solutionrelative:api_project_for_flutter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7D06572-8176-4491-B51B-35AC3E242E5C}|API_Project_For_Flutter\\API_Project_For_Flutter.csproj|f:\\flutterprojects\\deneme\\webapi\\api_project_for_flutter\\api_project_for_flutter\\models\\entities\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7D06572-8176-4491-B51B-35AC3E242E5C}|API_Project_For_Flutter\\API_Project_For_Flutter.csproj|solutionrelative:api_project_for_flutter\\models\\entities\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7D06572-8176-4491-B51B-35AC3E242E5C}|API_Project_For_Flutter\\API_Project_For_Flutter.csproj|f:\\flutterprojects\\deneme\\webapi\\api_project_for_flutter\\api_project_for_flutter\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7D06572-8176-4491-B51B-35AC3E242E5C}|API_Project_For_Flutter\\API_Project_For_Flutter.csproj|solutionrelative:api_project_for_flutter\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\FlutterProjects\\Deneme\\WEBAPI\\API_Project_For_Flutter\\API_Project_For_Flutter\\appsettings.json",
-              "RelativeDocumentMoniker": "API_Project_For_Flutter\\appsettings.json",
-              "ToolTip": "F:\\FlutterProjects\\Deneme\\WEBAPI\\API_Project_For_Flutter\\API_Project_For_Flutter\\appsettings.json",
-              "RelativeToolTip": "API_Project_For_Flutter\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-23T22:36:13.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\FlutterProjects\\Deneme\\WEBAPI\\API_Project_For_Flutter\\API_Project_For_Flutter\\Program.cs",
-              "RelativeDocumentMoniker": "API_Project_For_Flutter\\Program.cs",
-              "ToolTip": "F:\\FlutterProjects\\Deneme\\WEBAPI\\API_Project_For_Flutter\\API_Project_For_Flutter\\Program.cs",
-              "RelativeToolTip": "API_Project_For_Flutter\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T22:03:22.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Furniture.cs",
-              "DocumentMoniker": "F:\\FlutterProjects\\Deneme\\WEBAPI\\API_Project_For_Flutter\\API_Project_For_Flutter\\Models\\Entities\\Furniture.cs",
-              "RelativeDocumentMoniker": "API_Project_For_Flutter\\Models\\Entities\\Furniture.cs",
-              "ToolTip": "F:\\FlutterProjects\\Deneme\\WEBAPI\\API_Project_For_Flutter\\API_Project_For_Flutter\\Models\\Entities\\Furniture.cs",
-              "RelativeToolTip": "API_Project_For_Flutter\\Models\\Entities\\Furniture.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T21:53:19.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "F:\\FlutterProjects\\Deneme\\WEBAPI\\API_Project_For_Flutter\\API_Project_For_Flutter\\Models\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "API_Project_For_Flutter\\Models\\Entities\\User.cs",
-              "ToolTip": "F:\\FlutterProjects\\Deneme\\WEBAPI\\API_Project_For_Flutter\\API_Project_For_Flutter\\Models\\Entities\\User.cs",
-              "RelativeToolTip": "API_Project_For_Flutter\\Models\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T21:51:08.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "F:\\FlutterProjects\\Deneme\\WEBAPI\\API_Project_For_Flutter\\API_Project_For_Flutter\\Data\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "API_Project_For_Flutter\\Data\\ApplicationDBContext.cs",
-              "ToolTip": "F:\\FlutterProjects\\Deneme\\WEBAPI\\API_Project_For_Flutter\\API_Project_For_Flutter\\Data\\ApplicationDBContext.cs",
-              "RelativeToolTip": "API_Project_For_Flutter\\Data\\ApplicationDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T21:23:14.262Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

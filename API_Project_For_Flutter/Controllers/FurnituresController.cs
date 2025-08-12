@@ -20,7 +20,21 @@ namespace API_Project_For_Flutter.Controllers
         [HttpGet]
         public IActionResult GetAllFurnitures()
         {
-            return Ok(dBContext.Furnitures.ToList());
+            var furnitures = dBContext.Furnitures.Select(f => new
+            {
+                f.Id,
+                f.Name,
+                f.Price,
+                f.Quantity,
+                f.Description
+            }).ToList();
+
+            if (furnitures == null || !furnitures.Any())
+            {
+                return NotFound("No furniture found.");
+            }
+
+            return Ok(furnitures);
         }
 
         [HttpGet]
