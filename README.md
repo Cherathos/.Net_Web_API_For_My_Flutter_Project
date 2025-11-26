@@ -19,11 +19,11 @@ Provides authentication, data access and business logic in a modular, maintainab
 ## 📦 Built With
 
 - **ASP.NET Core Web API**  
-- **Entity Framework Core** (ORM)  
+- **Entity Framework Core**
 - **JWT Bearer Authentication**  
-- **MSSQL** (or changeable to PostgreSQL / MySQL)  
+- **PstgreSQL**  
 - **Git** for version control  
-- (Optional) **Docker** — if you containerize the application  
+- **Docker** 
 
 ---
 
@@ -41,31 +41,25 @@ Provides authentication, data access and business logic in a modular, maintainab
    ```bash
    git clone https://github.com/Cherathos/.Net_Web_API_For_My_Flutter_Project.git
    cd .Net_Web_API_For_My_Flutter_Project
+   ```
 Update the connection string in appsettings.json / appsettings.Development.json
-
-json
-Copy code
+```
 "ConnectionStrings": {
   "DefaultConnection": "Server=...;Database=YourDb;User Id=...;Password=...;"
 }
+```
 Run EF Core migrations (if migrations included):
-
-bash
-Copy code
-dotnet ef database update
+```dotnet ef database update```
 Or let the application auto-migrate on startup (if configured).
 
 Build and run the API:
-
-bash
-Copy code
-dotnet run
+```dotnet run```
 By default, API should run at https://localhost:5001 or http://localhost:5000.
 
 📬 API Endpoints (Sample)
 Here's a quick overview of typical endpoints:
 
-Method	Endpoint	Description
+Method	Endpoint	         Description
 POST	/api/auth/register	Register new user
 POST	/api/auth/login	Authenticate & get JWT
 GET	/api/users	Get list of users
@@ -85,11 +79,7 @@ Secure sensitive data (connection strings, JWT secret) via environment variables
 
 🧪 Testing
 If you add unit / integration tests, run them via:
-
-
-bash
-Copy code
-dotnet test
+```dotnet test```
 Don’t forget to mock external dependencies (database, external APIs) to ensure tests are reliable.
 
 🙋‍♂️ Contact
